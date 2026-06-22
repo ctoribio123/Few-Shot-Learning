@@ -1,0 +1,19 @@
+langchain-community
+faiss-cpu
+langchain_openai
+langchain-ollama
+python-dotenv
+setuptools==68.0.0
+tensorflow-hub==0.13.0
+tensorflow-text==2.10.0
+tensorflow==2.10.0 
+numpy==1.23.0 
+pandas 
+matplotlib 
+scikit-learn
+datasets 
+keras-nlp == 0.6.0
+torch==2.6
+nlpaug==1.1.11
+transformers==4.30.2
+nltk
